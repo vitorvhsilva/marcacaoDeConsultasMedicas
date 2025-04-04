@@ -5,7 +5,9 @@ export default {
     background: '#FFFFFF',
     text: '#038C7F',
     error: '#FF647C',
+    warning: '#FF647C',
     success: '#038C7F',
+    border: '#027373',
     white: '#FFFFFF',
   },
   typography: {
